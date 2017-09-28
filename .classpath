@@ -23,5 +23,29 @@
 	<classpathentry kind="lib" path="C:/jar/jpa/spring/spring-data-commons-1.10.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/jar/jpa/spring/spring-data-jpa-1.8.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/jar/jpa/spring/spring-orm-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/eclipselink_jpa_2.1.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/javax.persistence-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/jstl-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/jstl-impl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/pc-biblio-dao-jpa.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/slf4j-api-1.7.18.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/slf4j-simple-1.7.18.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-aop-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-aop-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-beans-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-context-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-core-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-data-commons-1.10.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-data-commons-1.11.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-data-jpa-1.8.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-data-jpa-1.9.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-expression-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-jdbc-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-orm-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-orm-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-tx-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-web-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spring/spring-webmvc-4.2.5.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
