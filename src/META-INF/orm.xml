@@ -58,7 +58,7 @@
 		<attributes>
 			<id name="_id"><column name="car_id"/><generated-value strategy="IDENTITY"/></id>
 			<basic name="_idProduit"><column name="car_fk_produits"/></basic>
-			<basic name="_idPropriete"><column name="car_fk_proprietes"/></basic>
+			<many-to-one name="_idPropriete"><join-column name="car_fk_proprietes"/></many-to-one>
 			<basic name="_valeur"><column name="car_valeur"/></basic>
 		</attributes>
 	</entity>
