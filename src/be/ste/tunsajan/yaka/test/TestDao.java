@@ -6,6 +6,7 @@ package be.ste.tunsajan.yaka.test;
 import java.util.List;
 
 import be.ste.tunsajan.yaka.beans.CategorieBeans;
+import be.ste.tunsajan.yaka.beans.ProduitBeans;
 import be.ste.tunsajan.yaka.beans.SousCategorieBeans;
 import be.ste.tunsajan.yaka.dao.DaoYaka;
 
@@ -25,6 +26,10 @@ public class TestDao {
 		
 		List<SousCategorieBeans>  souscategories =dao.SQLQueryListerLesSousCategories();
 		for (SousCategorieBeans c :souscategories) {
+			System.out.println(c);	
+		}
+		List<ProduitBeans>  produits =dao.SQLQueryListerLesProduits();
+		for (ProduitBeans c : produits) {
 			System.out.println(c);	
 		}
 	}
