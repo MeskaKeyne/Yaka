@@ -47,5 +47,6 @@
 	<classpathentry kind="lib" path="C:/jar/spring/spring-tx-4.2.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/jar/spring/spring-web-4.2.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/jar/spring/spring-webmvc-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
